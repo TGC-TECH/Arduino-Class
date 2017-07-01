@@ -1,5 +1,5 @@
 /*
-  Button
+  Latching Button
 
  Turns on and off a light emitting diode(LED) connected to digital
  pin 13, when pressing a pushbutton attached to pin 2.
@@ -18,6 +18,7 @@
  by DojoDave <http://www.0j0.org>
  modified 30 Aug 2011
  by Tom Igoe
+ modified for latching support 7/1/2017 by T.Cowles
 
  This example code is in the public domain.
 
